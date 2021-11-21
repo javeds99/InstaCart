@@ -76,7 +76,7 @@ customers in their system and how their ordering behaviors differ.
  
  **<ins>Summary:<ins/>**
   
-  InstaCart
+  InstaCart mostly has regular customers, majority of them being married and mid-age or older. InstaCart's main customer base is located mainly in the Southern and Western states. The busiest day for the company is Friday, and the busiest hours during the day are from 9am-4pm.
 
 
 
