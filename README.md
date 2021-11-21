@@ -22,5 +22,15 @@ customers in their system and how their ordering behaviors differ.
   ![prices_by_hour1](https://user-images.githubusercontent.com/93872864/142748521-2483974c-8dfd-407a-8f27-be5ab4f20574.jpeg)
   
   - The busiest day for InstaCart is Friday.
+  
+  **<ins>Busiest Hours of the Day:<ins/>**
+  
+  ![prices_by_hour2](https://user-images.githubusercontent.com/93872864/142748627-df3b59a9-8b69-43d8-9ec4-fac28d605501.jpeg)
+
+  - The busiest hours for InstaCart are 4am-12pm.
+  
+  **<ins>Most Profitable Hour of the Day:<ins/>**
+  
+  
 
   
