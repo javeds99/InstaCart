@@ -38,7 +38,27 @@ customers in their system and how their ordering behaviors differ.
   
   ![image](https://user-images.githubusercontent.com/93872864/142772526-51be69e5-1c2e-4a2b-a648-3427853d0edc.png)
   
-  - 
+  - The first 3 hours is the time period in which the most money is made.
+
+**<ins>Different Customer Profiles:<ins/>**
+  
+  **Using Python, new flags and columns were derived.**
+  
+  
+  ![image](https://user-images.githubusercontent.com/93872864/142773211-9379b0bc-eafb-47e0-b374-62074f401cbd.png)
+
+  - Most of the items that InstaCart sell are mid-range products.
+  
+  
+  ![image](https://user-images.githubusercontent.com/93872864/142773255-a34c5349-5d98-4580-abe8-effc1ce5076f.png)
+
+  - Majority of InstaCart's customers are classified as regular customers.
+  
+  
+  ![image](https://user-images.githubusercontent.com/93872864/142773281-0d4d9709-4a66-48ee-aa3a-e8d4f2671cae.png)
+
+  - InstaCart's customers were split into 9 categories based on their age and family status, and customer profile flags were made. 
+
 
   
   
