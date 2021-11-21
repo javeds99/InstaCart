@@ -63,6 +63,22 @@ customers in their system and how their ordering behaviors differ.
   ![image](https://user-images.githubusercontent.com/93872864/142773281-0d4d9709-4a66-48ee-aa3a-e8d4f2671cae.png)
 
   - InstaCart's customers were split into 9 categories based on their age and family status, and customer profile flags were made. 
+  
+  
+  **<ins>Relationship Between Income and Age:<ins/>**
+  
+  ![image](https://user-images.githubusercontent.com/93872864/142773724-fb921009-209a-4a4c-a8c1-cd5358289298.png)
+
+  
+  - Ages 40 and up have a higher income than younger customers.
+  - Ages 18-40 have only few customers that make more than $100k, while almost half of the customers ages 40+ make $100k or more.
+
+ 
+ **<ins>Summary:<ins/>**
+  
+  InstaCart
+
+
 
 
   
