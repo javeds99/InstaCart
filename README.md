@@ -20,5 +20,7 @@ customers in their system and how their ordering behaviors differ.
 **<ins>Busiest Days of the Week:<ins/>**
   
   ![prices_by_hour1](https://user-images.githubusercontent.com/93872864/142748521-2483974c-8dfd-407a-8f27-be5ab4f20574.jpeg)
+  
+  - The busiest day for InstaCart is Friday.
 
   
