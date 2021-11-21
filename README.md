@@ -45,14 +45,19 @@ customers in their system and how their ordering behaviors differ.
   **Using Python, new flags and columns were derived.**
   
   
+  
   ![image](https://user-images.githubusercontent.com/93872864/142773211-9379b0bc-eafb-47e0-b374-62074f401cbd.png)
 
   - Most of the items that InstaCart sell are mid-range products.
   
   
+  
+  
   ![image](https://user-images.githubusercontent.com/93872864/142773255-a34c5349-5d98-4580-abe8-effc1ce5076f.png)
 
   - Majority of InstaCart's customers are classified as regular customers.
+  
+  
   
   
   ![image](https://user-images.githubusercontent.com/93872864/142773281-0d4d9709-4a66-48ee-aa3a-e8d4f2671cae.png)
